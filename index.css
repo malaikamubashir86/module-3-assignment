@@ -1,1 +1,23 @@
 
+.box{
+    border: 2px solid black;
+    text-align: center;
+    margin: 5px;
+    background-color: rgb(217, 208, 208);
+}
+h1,h4{
+    font-weight: 700;
+}
+*{
+
+    font-weight: 700;
+}
+.navbar{
+    background-color: rgb(217, 208, 208);
+}
+.color{
+    color: black;
+}
+.navbar-brand{
+    color: black;
+}
